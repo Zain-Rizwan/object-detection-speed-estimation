@@ -1,0 +1,17 @@
+# .dockerignore
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.png
+__pycache__/
+*.pth
+*.pt
+*.h5
+*.weights
+*.onnx
+models/
+output/
+venv/
+.env
+yolovenv/

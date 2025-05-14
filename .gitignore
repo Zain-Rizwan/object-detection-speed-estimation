@@ -1,0 +1,32 @@
+# Ignore YOLO environment folder
+yolovenv/
+
+# Ignore zip files
+*.zip
+
+# Ignore PyTorch model files
+*.pt
+
+# Ignore common data and model files
+*.h5
+*.ckpt
+*.onnx
+*.pkl
+*.joblib
+
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
